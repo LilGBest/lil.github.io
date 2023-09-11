@@ -1,0 +1,54 @@
+.profile{
+
+margin:  0;
+padding:20px;
+background-color: white ;
+color: #27005D;
+
+text-align: center;
+
+}
+
+#slackDisplayImage{
+    width: 200px;
+    height: 200px;
+    align-content: center;
+    border-radius: 20%;
+    margin:20px 20px 5px 20px;
+}
+#slackUserName{
+    font-size: larger;
+     color: red;
+     font-style: italic;
+     
+     
+     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+ }
+ #myTrack{
+    font-style: oblique;
+    color: red;
+    
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+ }
+ #gitHubURL{
+
+background-color: brown;
+color: white;
+padding: 4px;
+
+font-weight: bold;
+border: 2px solid transparent;
+border-radius: 10px;
+text-decoration: none;
+
+ }
+ #currentDayOfTheWeek{
+font-weight: bold;
+
+
+
+
+ }
+#currentUTCTime{
+   font-weight: bold; 
+}
